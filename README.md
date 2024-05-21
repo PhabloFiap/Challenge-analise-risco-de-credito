@@ -20,3 +20,6 @@ Este projeto foi desenvolvido como o objetivo é realizar uma análise de risco 
 * Seaborn
 * Matplotlib
 
+### Link do Youtube explicando o projeto
+[Video 1](https://youtu.be/_37AE7EzBnA)
+[Video 2](https://youtu.be/7mle9wx-wvY)
